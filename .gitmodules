@@ -1,3 +1,6 @@
 [submodule "keyboard-libraries"]
 	path = keyboard-libraries
 	url = https://github.com/Bastardkb/keyboard-libraries
+[submodule "dilemma/keyboard-libraries"]
+	path = dilemma/keyboard-libraries
+	url = git@github.com:Bastardkb/keyboard-libraries.git
