@@ -2,4 +2,5 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/keyboard-libraries/footprints")(options "")(descr ""))
   (lib (name "footprints2")(type "KiCad")(uri "${KIPRJMOD}/keyboard-libraries/footprints")(options "")(descr ""))
   (lib (name "local-libraries")(type "KiCad")(uri "${KIPRJMOD}/keyboard-libraries/footprints")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/keyboard-libraries/footprints")(options "")(descr ""))
 )
