@@ -75,7 +75,7 @@ The are three resistors that are important for us: R1, R7 and R8. R1 controls wh
 R7 and R8 need to be desoldered if you are going to supply the device with 5V. If you are going to power it with 3V then its fine and you don't have to touch them. For more info refer to https://github.com/Keycapsss/cirque-trackpad
 
 Cirque trackpad is connected with the board using 4 pins: GND, VCC, SCL(clock) and SDA(data). That means to you need to figure out what kind of voltage you have on VCC.
-You can check it in the specification of your controller, or measure.
+You can check it in the specification of your controller, or you can measure it directly on the pad.
 
 After that you need to connect pads from the PCB with corresponding pads on the Cirque trackpad.
 
