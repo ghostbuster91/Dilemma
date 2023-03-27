@@ -1,9 +1,14 @@
-![](pics/logo.png)
+This is a modified version of Dilemma keyboard 3x6_3 with more aggerssive pinky stagger.
+
+![](./dilemma/m.jpg)
+
+Head over [here](./dilemma/build_guide.md) for a build guide.
 
 <div align="center">
 
 ![GitHub Issues](https://img.shields.io/github/issues/bastardkb/dilemma?style=for-the-badge)
 ![GitHub License](https://img.shields.io/badge/license-CERN%20OHL%20V2-lightgrey?style=for-the-badge)
+
 </div>
 
 ---
@@ -25,9 +30,8 @@ The Dilemma is a vertical stagger low-profile keyboard with mods.
 - [Community mods](#community-mods)
 - [Build guide](#build-guide)
 - [Forks](#forks)
-- [Support me on patreon](#support-me-on-patreon) 
+- [Support me on patreon](#support-me-on-patreon)
 - [Others / in progress](#others--in-progress)
-
 
 ---
 
@@ -78,10 +82,8 @@ Both versions of the Dilemma require:
 | Audio jack      | 2      |               |
 | Button, 4x4x1.5 | 2      |               |
 
-
 ### DIY version
 
- 
 On top of the parts mentioned above, you will need:
 
 | Part name               | Amount | Link / source               |
@@ -89,7 +91,7 @@ On top of the parts mentioned above, you will need:
 | SOD123 Diodes           | 34     | Farnell, Mouser, Aliexpress |
 | Dilemma PCB, DIY, 1.2mm | 2      | See Release section         |
 | RP2040 MCU board        | 2      | KB2040, elite-pi...         |
-| Header pins             | 2*12   |                             |
+| Header pins             | 2\*12  |                             |
 
 Please note, **the Dilemma is compatible only with rp2040 boards !**
 
@@ -100,7 +102,6 @@ Order in 1.2mm thickness.
 ### Assembled version
 
 ![](pics/1d.png)
-
 
 On top of the parts mentioned above, you will need:
 
@@ -128,10 +129,10 @@ When installing the trackpad mod, you will need:
 | ------------------- | ------ | ----------------------- |
 | M3 screw, torx, 6mm | 4      | Conrad                  |
 | M3x5x5 screw insert | 4      | Aliexpress              |
-| Cirque trackpad*    | 1       |  Mouser |
-| 3d printed parts*    |        | See `mechanical` folder |
+| Cirque trackpad\*   | 1      | Mouser                  |
+| 3d printed parts\*  |        | See `mechanical` folder |
 
-*You can use either the 35mm (TM035035-2024-003) or 40mm (TM040040-2024-303).
+\*You can use either the 35mm (TM035035-2024-003) or 40mm (TM040040-2024-303).
 Print the appropriate parts from the `mechanical` folder.
 
 If building the PCBA version, you will also need:
@@ -140,14 +141,12 @@ If building the PCBA version, you will also need:
 | ------------------------------------------------------------- | ------ | ------------- |
 | 12-position FPC cable, 0.5mm pitch, same side contacts, 100mm | 1      | Farnell       |
 
-
 If building the DIY version, you will also need:
 
 | Part name               | Amount | Link / source |
 | ----------------------- | ------ | ------------- |
 | SOD123 Resistor, 5kOhms | 2      |               |
 | Cables                  |        |               |
-
 
 ### Cases
 
@@ -167,7 +166,6 @@ You can find more information in the readme in the `mechanical/community mods` f
 
 https://docs.bastardkb.com/hc/en-us/sections/6848232395410-Dilemma
 
-
 ## Forks
 
 - [3x6 version](https://github.com/bstiq/Dilemma_3x6/)
@@ -183,5 +181,4 @@ I post regular updates and hindsight on my work. I work full time on keyboard in
 
 The PCB has available connectors for:
 
-- oled 
-
+- oled
