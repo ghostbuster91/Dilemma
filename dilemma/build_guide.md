@@ -1,6 +1,6 @@
 # Dilemma DIY build guide
 
-This guide was done for a modified version of DIY Dilemma, however steps should be the same as the modification changes only the amount of switches.
+This guide was done for a modified version of DIY Dilemma, however steps should be the same for the unmodified version as the modification changes only the amount of switches.
 
 The Dilemma PCB is a reversible PCB meaning that both halves are the same but because the bottom part is mirrored part of the top part it is possible to use it for the other side.
 
