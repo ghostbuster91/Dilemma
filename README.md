@@ -3,6 +3,7 @@ This is a modified version of Dilemma keyboard 3x6_3 with more aggerssive pinky 
 ![](./dilemma/m.jpg)
 
 Head over [here](./dilemma/build_guide.md) for a build guide.
+QMK firmaware: https://github.com/ghostbuster91/qmk_firmware/tree/bkb-master/keyboards/bastardkb/dilemma/3x6_3
 
 <div align="center">
 
